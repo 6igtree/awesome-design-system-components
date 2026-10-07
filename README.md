@@ -35,6 +35,7 @@ Guideline-only systems (e.g. Apple Human Interface Guidelines) are out of scope.
 | Coinbase | CDS | React, React Native | [cds.coinbase.com](https://cds.coinbase.com/) | [coinbase/cds](https://github.com/coinbase/cds) |
 | Contentful | Forma 36 | React | [f36.contentful.com](https://f36.contentful.com/) | [contentful/forma-36](https://github.com/contentful/forma-36) |
 | Culture Amp | Kaizen | React | [cultureamp.design](https://cultureamp.design/) | [cultureamp/kaizen-design-system](https://github.com/cultureamp/kaizen-design-system) |
+| eBay | Evo (Skin / eBayUI) | CSS, Marko, React | [opensource.ebay.com](https://opensource.ebay.com/evo-web/) | [eBay/evo-web](https://github.com/eBay/evo-web) |
 | Elastic | EUI | React | [eui.elastic.co](https://eui.elastic.co/) | [elastic/eui](https://github.com/elastic/eui) |
 | Esri | Calcite | Web Components | [developers.arcgis.com](https://developers.arcgis.com/calcite-design-system/) | [Esri/calcite-design-system](https://github.com/Esri/calcite-design-system) |
 | Freshworks | Crayons | Web Components | [crayons.freshworks.com](https://crayons.freshworks.com/) | [freshworks/crayons](https://github.com/freshworks/crayons) |
@@ -49,13 +50,14 @@ Guideline-only systems (e.g. Apple Human Interface Guidelines) are out of scope.
 | JetBrains | Ring UI | React | [Storybook](https://jetbrains.github.io/ring-ui) | [JetBrains/ring-ui](https://github.com/JetBrains/ring-ui) |
 | Just Eat Takeaway.com | PIE | Web Components | [pie.design](https://pie.design/) | [justeattakeaway/pie](https://github.com/justeattakeaway/pie) |
 | Kontur | Kontur UI | React | [tech.skbkontur.ru](https://tech.skbkontur.ru/kontur-ui) | [skbkontur/retail-ui](https://github.com/skbkontur/retail-ui) |
+| Meta | Astryx (beta) | React | [astryx.atmeta.com](https://astryx.atmeta.com/) | [facebook/astryx](https://github.com/facebook/astryx) |
 | Microsoft | FAST | Web Components | [fast.design](https://www.fast.design/) | [microsoft/fast](https://github.com/microsoft/fast) |
 | Microsoft | Fluent 2 | React, Web Components | [Storybook](https://react.fluentui.dev/) | [microsoft/fluentui](https://github.com/microsoft/fluentui) |
 | monday.com | Vibe | React | [vibe.monday.com](https://vibe.monday.com/) | [mondaycom/vibe](https://github.com/mondaycom/vibe) |
 | MongoDB | LeafyGreen | React | [mongodb.design](https://www.mongodb.design/) | [mongodb/leafygreen-ui](https://github.com/mongodb/leafygreen-ui) |
 | Mozilla | Protocol | CSS | [protocol.mozilla.org](https://protocol.mozilla.org/) | [mozilla/protocol](https://github.com/mozilla/protocol) |
 | Nextcloud | Nextcloud Vue | Vue | [Styleguide](https://nextcloud-vue-components.netlify.app/) | [nextcloud-libraries/nextcloud-vue](https://github.com/nextcloud-libraries/nextcloud-vue) |
-| Okta | Odyssey | React | — | [okta/odyssey](https://github.com/okta/odyssey) |
+| Okta | Odyssey | React | [Storybook](https://odyssey-storybook.okta.design/) | [okta/odyssey](https://github.com/okta/odyssey) |
 | Oracle | JET | Web Components | [oracle.com/jet](https://oracle.com/jet) | [oracle/oraclejet](https://github.com/oracle/oraclejet) |
 | Palantir | Blueprint | React | [blueprintjs.com](https://blueprintjs.com/) | [palantir/blueprint](https://github.com/palantir/blueprint) |
 | Priceline | Priceline Design System | React | [priceline.github.io](https://priceline.github.io/design-system/) | [priceline/design-system](https://github.com/priceline/design-system) |
@@ -86,7 +88,6 @@ Well-known systems that do not meet the criteria at the time of the last check.
 | Airbnb | Lunar | Inactive since 2023, and the README says it is not for the general public |
 | Auth0 | Cosmos | Repository archived |
 | Autodesk | HIG (Weave) | Inactive since 2024 |
-| eBay | Skin / eBayUI | Repositories archived |
 | HubSpot | Canvas | Repository archived |
 | Kiwi.com | Orbit | Documentation site is unreachable |
 | Pinterest | Gestalt | Marked as deprecated and end of life |
@@ -99,7 +100,7 @@ Pull requests are welcome. Please check that the entry meets all the [criteria](
 
 ---
 
-Last checked: 2026-10-06
+Last checked: 2026-10-07
 
 ## License
 
